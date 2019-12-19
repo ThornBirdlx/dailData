@@ -44,5 +44,5 @@ def read_drop_duplicates():
 
 
 if __name__ == '__main__':
-    write_data_to_excel()
-    # read_drop_duplicates()
+    # write_data_to_excel()
+    read_drop_duplicates()
